@@ -1,6 +1,6 @@
 # Responsive page
 
-ℹ️ Live page url:
+ℹ️ Live page url:https://evertonneto.github.io/responsive-page/
 
 ## Desktop preview
 
